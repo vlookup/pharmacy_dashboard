@@ -1,0 +1,501 @@
+drug_id,drug_name,ndc,therapeutic_class,brand_flag,unit_cost
+D0001,Lisinopril,42098-4657-27,Cardiovascular,0,28.41
+D0002,Eliquis,13905-2535-37,Cardiovascular,0,11.03
+D0003,Trulicity,95181-9928-63,Diabetes,1,136.16
+D0004,Humira,30926-7924-53,Autoimmune,0,777.87
+D0005,Celebrex,59797-2584-55,Pain Management,1,169.8
+D0006,Humira,80284-3045-58,Autoimmune,0,578.8
+D0007,Xeljanz,57400-4150-18,Autoimmune,0,545.82
+D0008,Celebrex,40512-2654-58,Pain Management,0,15.34
+D0009,Advair,37460-5374-99,Respiratory,0,94.3
+D0010,Eliquis,80010-5010-30,Cardiovascular,0,18.95
+D0011,Xeljanz,52504-1916-39,Autoimmune,1,5019.91
+D0012,Montelukast,37653-6155-37,Respiratory,1,265.62
+D0013,Trulance,28301-5040-81,GI,1,190.95
+D0014,Mesalamine,38746-3266-75,GI,0,45.72
+D0015,Metformin,30969-7916-86,Diabetes,1,42.8
+D0016,Mesalamine,79352-5119-80,GI,0,76.01
+D0017,Metformin,80381-5371-92,Diabetes,0,54.33
+D0018,Cosentyx,10425-5315-74,Autoimmune,1,4690.79
+D0019,Atorvastatin,76540-4258-29,Cardiovascular,0,15.9
+D0020,Seroquel,79514-1009-86,Mental Health,0,27.02
+D0021,Metformin,50306-4923-17,Diabetes,0,39.93
+D0022,Lisinopril,19071-9727-26,Cardiovascular,0,7.43
+D0023,Opdivo,79163-7932-37,Oncology,1,11218.05
+D0024,Celebrex,98039-7118-66,Pain Management,0,45.18
+D0025,Imbruvica,18392-6539-12,Oncology,1,7471.4
+D0026,Oxycodone,19305-1964-39,Pain Management,1,15.35
+D0027,Januvia,41195-5562-95,Diabetes,1,293.82
+D0028,Seroquel,41850-8749-62,Mental Health,0,17.52
+D0029,Metoprolol,63883-8651-16,Cardiovascular,0,26.23
+D0030,Lisinopril,54473-2790-41,Cardiovascular,0,9.61
+D0031,Revlimid,46509-8579-41,Oncology,0,2748.97
+D0032,Metoprolol,82132-2604-16,Cardiovascular,0,25.5
+D0033,Metformin,40982-3724-62,Diabetes,0,75.42
+D0034,Tramadol,31579-7209-10,Pain Management,0,49.29
+D0035,Cosentyx,82845-8973-29,Autoimmune,1,1544.44
+D0036,Ibuprofen,81066-1998-50,Pain Management,0,4.74
+D0037,Opdivo,79615-3579-17,Oncology,0,2921.56
+D0038,Amlodipine,18907-4853-61,Cardiovascular,1,20.62
+D0039,Oxycodone,91183-2343-63,Pain Management,0,33.55
+D0040,Symbicort,51180-4910-43,Respiratory,1,164.36
+D0041,Cosentyx,19508-1152-68,Autoimmune,1,3916.38
+D0042,Lisinopril,76307-5345-26,Cardiovascular,0,35.2
+D0043,Amlodipine,30676-8179-79,Cardiovascular,0,27.27
+D0044,Trulicity,96951-2697-27,Diabetes,1,162.36
+D0045,Eliquis,46930-4450-53,Cardiovascular,1,32.93
+D0046,Xeljanz,16658-2512-91,Autoimmune,0,923.58
+D0047,Humira,27146-5291-30,Autoimmune,1,4576.77
+D0048,Mesalamine,19862-3442-79,GI,1,17.43
+D0049,Spiriva,66333-3088-15,Respiratory,0,37.74
+D0050,Januvia,42706-2684-55,Diabetes,1,469.17
+D0051,Mesalamine,41029-3662-32,GI,0,77.72
+D0052,Glipizide,53540-7745-95,Diabetes,0,130.29
+D0053,Celebrex,24168-7267-14,Pain Management,1,172.0
+D0054,Naproxen,70332-6728-49,Pain Management,0,41.39
+D0055,Naproxen,35313-7528-52,Pain Management,1,57.16
+D0056,Atorvastatin,76768-7548-96,Cardiovascular,0,36.85
+D0057,Albuterol,44237-3925-84,Respiratory,1,385.39
+D0058,Humira,66959-6663-50,Autoimmune,1,2900.17
+D0059,Metoprolol,34914-5173-15,Cardiovascular,0,27.45
+D0060,Trulicity,80575-4228-56,Diabetes,0,67.54
+D0061,Spiriva,26334-5920-74,Respiratory,1,130.62
+D0062,Linzess,48752-3085-34,GI,0,39.69
+D0063,Pantoprazole,49446-7653-80,GI,0,73.78
+D0064,Stelara,86019-6279-69,Autoimmune,1,2929.82
+D0065,Oxycodone,32241-2389-46,Pain Management,0,26.74
+D0066,Albuterol,40784-6085-38,Respiratory,0,82.59
+D0067,Sertraline,72277-2193-68,Mental Health,1,126.67
+D0068,Tramadol,41979-3417-93,Pain Management,0,35.01
+D0069,Metoprolol,77889-8611-16,Cardiovascular,1,84.94
+D0070,Metoprolol,70901-9702-81,Cardiovascular,1,90.53
+D0071,Opdivo,76162-7991-80,Oncology,0,1891.83
+D0072,Abilify,42406-5543-76,Mental Health,0,38.41
+D0073,Celebrex,47450-4841-44,Pain Management,0,18.12
+D0074,Amlodipine,60205-3503-37,Cardiovascular,1,12.44
+D0075,Linzess,64496-2020-36,GI,0,73.71
+D0076,Mesalamine,12560-7232-71,GI,0,5.49
+D0077,Symbicort,64921-9818-79,Respiratory,0,81.99
+D0078,Tramadol,67125-8956-13,Pain Management,1,78.99
+D0079,Pantoprazole,26728-9751-13,GI,0,79.82
+D0080,Metformin,27786-8564-33,Diabetes,0,12.29
+D0081,Linzess,52840-6529-58,GI,1,101.0
+D0082,Linzess,71644-1317-79,GI,0,9.3
+D0083,Advair,95426-1659-13,Respiratory,0,95.47
+D0084,Ibuprofen,41266-3068-70,Pain Management,0,34.13
+D0085,Tramadol,58351-3749-87,Pain Management,0,31.15
+D0086,Amlodipine,24168-1420-49,Cardiovascular,0,22.86
+D0087,Trulance,35995-2245-85,GI,0,61.98
+D0088,Ibuprofen,49529-2983-82,Pain Management,0,39.57
+D0089,Spiriva,58571-2129-74,Respiratory,0,68.28
+D0090,Ozempic,23833-8102-56,Diabetes,0,97.16
+D0091,Revlimid,78386-5425-88,Oncology,0,2616.4
+D0092,Keytruda,87656-5397-51,Oncology,0,2703.43
+D0093,Atorvastatin,41963-8613-82,Cardiovascular,0,24.06
+D0094,Linzess,52600-3979-72,GI,1,78.18
+D0095,Stelara,88139-5526-81,Autoimmune,1,555.83
+D0096,Ibuprofen,63271-9004-81,Pain Management,1,152.12
+D0097,Keytruda,12260-2524-47,Oncology,0,1443.19
+D0098,Celebrex,58368-8753-80,Pain Management,0,27.48
+D0099,Mesalamine,69473-5438-49,GI,1,91.73
+D0100,Amlodipine,80236-4033-34,Cardiovascular,1,34.81
+D0101,Ibrance,78765-5636-22,Oncology,0,2665.26
+D0102,Enbrel,49618-1231-78,Autoimmune,0,626.58
+D0103,Metformin,26551-9042-23,Diabetes,0,131.54
+D0104,Cosentyx,54657-4020-16,Autoimmune,0,752.48
+D0105,Imbruvica,62521-9056-19,Oncology,0,2154.04
+D0106,Glipizide,83772-5978-20,Diabetes,1,596.38
+D0107,Eliquis,89471-4697-76,Cardiovascular,0,16.12
+D0108,Ibrance,66207-6003-82,Oncology,0,2242.05
+D0109,Amlodipine,44687-2330-30,Cardiovascular,0,11.28
+D0110,Amlodipine,69048-8699-47,Cardiovascular,1,7.8
+D0111,Stelara,69510-2166-97,Autoimmune,0,733.42
+D0112,Xeljanz,35928-7965-24,Autoimmune,0,1044.56
+D0113,Bupropion,19359-1977-31,Mental Health,0,60.28
+D0114,Cosentyx,49857-7594-44,Autoimmune,1,3252.6
+D0115,Keytruda,15224-8078-51,Oncology,1,7640.85
+D0116,Metformin,98381-1339-96,Diabetes,1,493.75
+D0117,Glipizide,95394-8245-45,Diabetes,0,31.32
+D0118,Trulance,71605-6700-62,GI,0,32.5
+D0119,Amlodipine,74942-5722-94,Cardiovascular,1,141.94
+D0120,Ozempic,43082-6296-24,Diabetes,1,582.26
+D0121,Mesalamine,10150-9889-69,GI,0,39.09
+D0122,Oxycodone,75338-8242-16,Pain Management,0,11.77
+D0123,Bupropion,73532-2989-13,Mental Health,0,73.09
+D0124,Naproxen,11792-7684-21,Pain Management,1,46.49
+D0125,Metoprolol,94896-3522-73,Cardiovascular,0,35.18
+D0126,Xeljanz,64459-8905-70,Autoimmune,0,743.73
+D0127,Abilify,88561-9327-27,Mental Health,1,259.75
+D0128,Cosentyx,76550-5377-10,Autoimmune,1,2055.61
+D0129,Xeljanz,96499-9022-29,Autoimmune,0,946.55
+D0130,Ibrance,81228-7180-68,Oncology,1,11261.37
+D0131,Naproxen,40613-7730-15,Pain Management,0,17.27
+D0132,Keytruda,96991-3492-73,Oncology,0,2929.65
+D0133,Seroquel,53515-2644-66,Mental Health,0,11.08
+D0134,Imbruvica,63736-3529-19,Oncology,0,1938.98
+D0135,Stelara,62098-2315-52,Autoimmune,0,1352.34
+D0136,Linzess,73956-9864-14,GI,0,55.94
+D0137,Celebrex,21846-8110-22,Pain Management,0,38.5
+D0138,Metoprolol,49251-1474-15,Cardiovascular,1,50.68
+D0139,Januvia,66450-3385-41,Diabetes,0,82.02
+D0140,Fluoxetine,89887-7267-89,Mental Health,1,206.21
+D0141,Opdivo,70443-5161-68,Oncology,1,3808.59
+D0142,Ozempic,98815-9955-30,Diabetes,0,15.71
+D0143,Spiriva,65615-5097-68,Respiratory,1,339.67
+D0144,Tramadol,23979-4886-58,Pain Management,0,29.45
+D0145,Stelara,96275-7484-45,Autoimmune,1,544.54
+D0146,Trulicity,47512-4770-87,Diabetes,0,121.28
+D0147,Naproxen,98835-3240-90,Pain Management,0,6.66
+D0148,Januvia,14373-6977-26,Diabetes,0,18.07
+D0149,Stelara,33021-4289-26,Autoimmune,0,1286.51
+D0150,Spiriva,45720-3695-42,Respiratory,0,92.26
+D0151,Ibrance,54396-2886-69,Oncology,0,2925.79
+D0152,Fluoxetine,98395-7511-81,Mental Health,0,29.97
+D0153,Omeprazole,26199-8451-57,GI,1,237.13
+D0154,Xeljanz,93695-7086-23,Autoimmune,0,1174.84
+D0155,Imbruvica,83584-6374-88,Oncology,0,1442.73
+D0156,Metoprolol,49608-7689-24,Cardiovascular,0,7.82
+D0157,Januvia,25220-2592-40,Diabetes,0,133.65
+D0158,Abilify,97881-9850-63,Mental Health,0,45.7
+D0159,Abilify,74139-7686-45,Mental Health,0,6.32
+D0160,Advair,40947-6942-22,Respiratory,0,98.28
+D0161,Spiriva,94518-6876-17,Respiratory,0,45.83
+D0162,Ibuprofen,69600-2501-94,Pain Management,0,12.18
+D0163,Metformin,41925-3063-82,Diabetes,0,34.75
+D0164,Oxycodone,40539-6383-28,Pain Management,1,158.15
+D0165,Januvia,28964-3129-79,Diabetes,0,41.34
+D0166,Sertraline,13379-3159-11,Mental Health,0,29.44
+D0167,Oxycodone,32838-5347-16,Pain Management,1,27.1
+D0168,Mesalamine,18330-8802-67,GI,1,273.42
+D0169,Metoprolol,90623-1710-94,Cardiovascular,0,20.99
+D0170,Imbruvica,72781-7580-64,Oncology,1,8547.07
+D0171,Keytruda,20589-6277-87,Oncology,1,2631.67
+D0172,Bupropion,86724-9984-51,Mental Health,0,31.04
+D0173,Cosentyx,66387-2624-99,Autoimmune,0,614.41
+D0174,Tramadol,39949-7779-53,Pain Management,0,41.72
+D0175,Trulance,50966-7992-50,GI,0,59.87
+D0176,Advair,72163-2099-21,Respiratory,0,84.86
+D0177,Metoprolol,58843-3131-81,Cardiovascular,1,11.82
+D0178,Albuterol,97207-7929-16,Respiratory,0,97.16
+D0179,Stelara,76507-4485-29,Autoimmune,1,4112.05
+D0180,Ibuprofen,82910-7022-24,Pain Management,0,38.61
+D0181,Tramadol,91490-1430-87,Pain Management,0,46.6
+D0182,Humira,50499-6567-54,Autoimmune,1,533.58
+D0183,Seroquel,19120-3324-91,Mental Health,0,73.0
+D0184,Eliquis,65028-8432-53,Cardiovascular,1,26.14
+D0185,Stelara,84395-2391-16,Autoimmune,0,655.58
+D0186,Metformin,96761-7947-72,Diabetes,1,366.21
+D0187,Linzess,77154-2864-54,GI,1,153.32
+D0188,Xeljanz,97442-6053-15,Autoimmune,0,720.52
+D0189,Metformin,37686-3248-42,Diabetes,1,177.22
+D0190,Lisinopril,66446-3878-26,Cardiovascular,0,16.12
+D0191,Oxycodone,97562-6802-19,Pain Management,0,21.06
+D0192,Ozempic,20205-6129-83,Diabetes,1,260.42
+D0193,Trulance,63088-1341-51,GI,1,64.3
+D0194,Ibrance,23875-4986-65,Oncology,1,7477.58
+D0195,Metoprolol,54500-4630-52,Cardiovascular,0,29.88
+D0196,Eliquis,79547-9355-34,Cardiovascular,0,34.25
+D0197,Symbicort,94599-3419-40,Respiratory,0,19.25
+D0198,Enbrel,30036-2234-32,Autoimmune,1,5732.11
+D0199,Keytruda,85952-8354-97,Oncology,0,2848.31
+D0200,Symbicort,18950-8682-66,Respiratory,1,256.24
+D0201,Xeljanz,76497-2215-49,Autoimmune,1,3039.58
+D0202,Metformin,47627-2257-92,Diabetes,0,130.32
+D0203,Eliquis,60394-8581-84,Cardiovascular,0,22.12
+D0204,Ozempic,84928-4084-51,Diabetes,0,92.73
+D0205,Sertraline,55015-2381-74,Mental Health,0,49.88
+D0206,Glipizide,67595-9586-76,Diabetes,0,93.42
+D0207,Symbicort,60779-7697-53,Respiratory,0,71.1
+D0208,Januvia,22387-7333-46,Diabetes,1,154.94
+D0209,Bupropion,96980-3317-54,Mental Health,1,95.83
+D0210,Pantoprazole,21104-6072-81,GI,0,36.08
+D0211,Advair,99838-9624-21,Respiratory,0,68.14
+D0212,Mesalamine,57526-6060-33,GI,0,83.47
+D0213,Montelukast,28030-3538-19,Respiratory,1,125.36
+D0214,Eliquis,79013-1618-94,Cardiovascular,0,14.62
+D0215,Seroquel,31266-3962-98,Mental Health,0,58.75
+D0216,Abilify,57749-4891-66,Mental Health,1,184.74
+D0217,Revlimid,50562-8684-34,Oncology,0,1735.68
+D0218,Keytruda,60052-9239-77,Oncology,0,1837.32
+D0219,Fluoxetine,28140-5096-16,Mental Health,0,49.52
+D0220,Spiriva,77621-3042-46,Respiratory,0,17.55
+D0221,Bupropion,77286-3414-65,Mental Health,0,10.51
+D0222,Tramadol,13495-7797-16,Pain Management,0,21.03
+D0223,Advair,20696-7142-38,Respiratory,0,12.54
+D0224,Atorvastatin,28035-1627-46,Cardiovascular,0,34.65
+D0225,Revlimid,71487-8349-88,Oncology,0,1010.5
+D0226,Lisinopril,29597-9991-87,Cardiovascular,1,80.58
+D0227,Atorvastatin,25970-1782-40,Cardiovascular,1,64.71
+D0228,Imbruvica,75513-9782-12,Oncology,1,7951.5
+D0229,Naproxen,10205-6780-40,Pain Management,1,114.99
+D0230,Sertraline,57265-2108-77,Mental Health,0,42.63
+D0231,Ozempic,15706-7338-57,Diabetes,0,41.78
+D0232,Januvia,55193-4950-94,Diabetes,0,96.1
+D0233,Advair,81567-6546-92,Respiratory,1,78.28
+D0234,Keytruda,27675-2033-68,Oncology,0,1073.97
+D0235,Ibuprofen,15492-6170-49,Pain Management,0,26.74
+D0236,Ibrance,94790-4131-46,Oncology,1,4926.72
+D0237,Januvia,58237-8159-61,Diabetes,1,447.27
+D0238,Linzess,75038-9151-57,GI,0,81.26
+D0239,Humira,20345-8055-87,Autoimmune,0,1495.1
+D0240,Seroquel,23447-2311-51,Mental Health,1,199.63
+D0241,Cosentyx,65851-3730-98,Autoimmune,0,943.91
+D0242,Imbruvica,56210-8126-45,Oncology,0,2278.94
+D0243,Metformin,63242-6952-75,Diabetes,0,121.16
+D0244,Sertraline,89635-8179-14,Mental Health,1,41.36
+D0245,Celebrex,84349-1530-87,Pain Management,0,9.37
+D0246,Ibrance,20077-3255-77,Oncology,0,1733.9
+D0247,Symbicort,24869-1424-33,Respiratory,1,204.63
+D0248,Mesalamine,44116-8311-37,GI,1,348.75
+D0249,Cosentyx,27790-2213-67,Autoimmune,1,1449.61
+D0250,Imbruvica,51889-6692-18,Oncology,0,2099.99
+D0251,Stelara,93584-3852-56,Autoimmune,0,1008.76
+D0252,Amlodipine,41029-9094-13,Cardiovascular,0,15.45
+D0253,Montelukast,82305-3126-88,Respiratory,0,89.58
+D0254,Atorvastatin,72739-9612-62,Cardiovascular,0,29.54
+D0255,Amlodipine,94192-2215-67,Cardiovascular,0,19.07
+D0256,Advair,82260-3981-26,Respiratory,0,48.94
+D0257,Metformin,49862-3697-30,Diabetes,0,51.79
+D0258,Celebrex,78012-5653-20,Pain Management,0,14.03
+D0259,Enbrel,90534-9740-21,Autoimmune,0,1002.57
+D0260,Seroquel,30210-3804-94,Mental Health,0,48.34
+D0261,Spiriva,13718-2330-15,Respiratory,1,379.93
+D0262,Enbrel,64602-1496-73,Autoimmune,0,1389.0
+D0263,Stelara,99783-7653-48,Autoimmune,0,953.54
+D0264,Glipizide,73471-8609-36,Diabetes,0,54.33
+D0265,Bupropion,51853-6658-61,Mental Health,0,13.28
+D0266,Spiriva,51827-4960-69,Respiratory,0,21.03
+D0267,Revlimid,16632-5754-59,Oncology,1,10505.8
+D0268,Pantoprazole,30932-6364-83,GI,0,64.49
+D0269,Naproxen,77466-8648-73,Pain Management,0,44.2
+D0270,Imbruvica,61543-9281-68,Oncology,1,11633.55
+D0271,Oxycodone,16624-5609-73,Pain Management,0,30.68
+D0272,Ibrance,24089-8060-27,Oncology,0,2764.91
+D0273,Montelukast,62505-1838-82,Respiratory,0,60.56
+D0274,Spiriva,60639-9261-67,Respiratory,1,308.12
+D0275,Xeljanz,25572-3108-22,Autoimmune,0,893.9
+D0276,Spiriva,28909-4261-87,Respiratory,0,55.82
+D0277,Metformin,53652-8761-76,Diabetes,1,276.91
+D0278,Bupropion,51750-3662-60,Mental Health,0,74.33
+D0279,Xeljanz,76809-9721-72,Autoimmune,1,4398.07
+D0280,Cosentyx,58281-6427-96,Autoimmune,0,609.6
+D0281,Mesalamine,92478-1436-86,GI,1,168.73
+D0282,Ibuprofen,32349-9589-90,Pain Management,0,36.62
+D0283,Pantoprazole,41745-1517-83,GI,0,83.23
+D0284,Amlodipine,51116-7861-29,Cardiovascular,1,63.71
+D0285,Tramadol,90147-8726-17,Pain Management,0,35.88
+D0286,Oxycodone,96799-8837-77,Pain Management,1,76.61
+D0287,Abilify,54869-9950-55,Mental Health,0,51.99
+D0288,Xeljanz,42311-5571-81,Autoimmune,0,798.5
+D0289,Stelara,74094-6194-71,Autoimmune,0,848.8
+D0290,Stelara,98686-9899-58,Autoimmune,1,5426.68
+D0291,Linzess,29198-5758-15,GI,0,28.73
+D0292,Atorvastatin,95979-5201-71,Cardiovascular,0,10.38
+D0293,Xeljanz,27992-2789-88,Autoimmune,0,1240.89
+D0294,Naproxen,79604-4697-91,Pain Management,1,48.1
+D0295,Metoprolol,71918-2647-97,Cardiovascular,1,116.3
+D0296,Trulicity,30701-7666-93,Diabetes,0,140.58
+D0297,Keytruda,47649-6262-46,Oncology,0,2291.8
+D0298,Eliquis,14888-3868-63,Cardiovascular,1,132.69
+D0299,Sertraline,62034-9116-33,Mental Health,0,70.5
+D0300,Humira,84443-2758-52,Autoimmune,1,2065.09
+D0301,Revlimid,71344-5470-34,Oncology,0,2617.63
+D0302,Advair,94972-5215-33,Respiratory,0,11.27
+D0303,Symbicort,35318-3875-88,Respiratory,0,87.05
+D0304,Trulance,21368-7567-95,GI,0,12.87
+D0305,Abilify,42512-1111-43,Mental Health,1,117.54
+D0306,Ibrance,49576-1187-43,Oncology,0,2307.37
+D0307,Ibuprofen,71000-6026-30,Pain Management,0,21.46
+D0308,Humira,48671-7021-88,Autoimmune,0,720.85
+D0309,Abilify,89395-7121-63,Mental Health,1,211.77
+D0310,Opdivo,38627-5054-97,Oncology,0,2509.48
+D0311,Eliquis,57419-2279-82,Cardiovascular,0,6.87
+D0312,Oxycodone,31566-6375-76,Pain Management,0,23.21
+D0313,Oxycodone,76895-8298-17,Pain Management,0,23.76
+D0314,Trulance,83242-8575-96,GI,0,71.57
+D0315,Ozempic,10395-4570-84,Diabetes,1,48.45
+D0316,Linzess,80931-1987-18,GI,0,86.36
+D0317,Imbruvica,33590-3218-92,Oncology,1,11761.67
+D0318,Linzess,60132-8348-58,GI,0,35.99
+D0319,Bupropion,80419-7439-77,Mental Health,1,41.69
+D0320,Ibuprofen,49107-8585-96,Pain Management,0,36.52
+D0321,Mesalamine,40102-5055-68,GI,0,33.56
+D0322,Enbrel,24790-1527-94,Autoimmune,0,919.24
+D0323,Glipizide,23224-1550-67,Diabetes,1,360.68
+D0324,Glipizide,62725-8191-39,Diabetes,0,83.27
+D0325,Glipizide,47914-4836-83,Diabetes,0,51.24
+D0326,Advair,28777-9540-38,Respiratory,1,171.29
+D0327,Humira,87550-3869-90,Autoimmune,0,1178.75
+D0328,Imbruvica,94320-7244-77,Oncology,0,1637.47
+D0329,Trulance,59343-4012-78,GI,1,168.36
+D0330,Celebrex,28920-8586-17,Pain Management,0,28.99
+D0331,Mesalamine,60910-4978-42,GI,0,21.78
+D0332,Metoprolol,22119-9775-34,Cardiovascular,0,4.78
+D0333,Mesalamine,19539-4082-85,GI,0,64.76
+D0334,Tramadol,53642-5967-11,Pain Management,1,43.94
+D0335,Ibuprofen,72773-4974-99,Pain Management,0,31.01
+D0336,Tramadol,82362-6269-46,Pain Management,0,20.27
+D0337,Symbicort,77215-9147-69,Respiratory,1,48.46
+D0338,Ibrance,58589-6126-62,Oncology,0,1091.43
+D0339,Naproxen,82523-7841-47,Pain Management,1,32.18
+D0340,Advair,42208-9180-80,Respiratory,0,68.91
+D0341,Symbicort,74044-9037-68,Respiratory,0,25.14
+D0342,Advair,81636-9000-33,Respiratory,1,367.59
+D0343,Trulicity,19742-1794-10,Diabetes,1,250.37
+D0344,Ibuprofen,11198-4583-74,Pain Management,0,23.89
+D0345,Trulicity,90808-8916-94,Diabetes,0,75.74
+D0346,Trulicity,11553-1274-77,Diabetes,0,109.72
+D0347,Humira,98346-8054-32,Autoimmune,0,607.02
+D0348,Eliquis,35156-9625-42,Cardiovascular,1,122.84
+D0349,Cosentyx,63218-8520-82,Autoimmune,1,1837.64
+D0350,Celebrex,20566-1519-21,Pain Management,0,21.45
+D0351,Mesalamine,93459-1154-99,GI,0,19.14
+D0352,Keytruda,53420-2562-77,Oncology,0,2838.3
+D0353,Naproxen,84289-8790-44,Pain Management,0,4.23
+D0354,Atorvastatin,83860-1539-32,Cardiovascular,0,35.04
+D0355,Albuterol,86943-3362-60,Respiratory,0,93.6
+D0356,Enbrel,84277-7375-96,Autoimmune,0,1396.53
+D0357,Montelukast,28343-2284-74,Respiratory,0,77.09
+D0358,Albuterol,40427-2245-53,Respiratory,1,246.02
+D0359,Linzess,45825-8381-72,GI,1,83.71
+D0360,Trulance,86791-7227-20,GI,1,271.4
+D0361,Enbrel,20752-5390-29,Autoimmune,0,880.0
+D0362,Abilify,23965-2499-10,Mental Health,1,283.12
+D0363,Ibrance,23399-3170-21,Oncology,0,1374.78
+D0364,Opdivo,63483-2692-13,Oncology,0,1179.24
+D0365,Eliquis,52523-7311-11,Cardiovascular,0,13.07
+D0366,Omeprazole,83339-4977-83,GI,0,47.99
+D0367,Pantoprazole,49469-5397-73,GI,1,55.35
+D0368,Abilify,49289-8933-19,Mental Health,1,110.89
+D0369,Tramadol,35630-8501-23,Pain Management,0,8.5
+D0370,Ozempic,91289-7224-52,Diabetes,1,266.93
+D0371,Mesalamine,52030-4290-71,GI,1,113.39
+D0372,Linzess,92955-9044-83,GI,1,274.78
+D0373,Montelukast,61502-6980-24,Respiratory,1,373.51
+D0374,Oxycodone,33583-1440-69,Pain Management,0,47.26
+D0375,Tramadol,19064-7703-96,Pain Management,0,25.97
+D0376,Enbrel,30203-7932-58,Autoimmune,1,906.81
+D0377,Opdivo,76402-7853-79,Oncology,0,1073.53
+D0378,Spiriva,21138-2791-41,Respiratory,0,69.18
+D0379,Advair,15806-7547-52,Respiratory,0,96.91
+D0380,Omeprazole,43913-4637-75,GI,1,262.66
+D0381,Tramadol,70694-9199-29,Pain Management,0,18.56
+D0382,Ozempic,64522-2406-24,Diabetes,1,499.63
+D0383,Bupropion,69681-4389-76,Mental Health,1,146.95
+D0384,Imbruvica,69303-6225-18,Oncology,0,1600.53
+D0385,Lisinopril,94930-2791-96,Cardiovascular,0,30.6
+D0386,Oxycodone,30989-6422-81,Pain Management,1,86.42
+D0387,Revlimid,92543-4022-33,Oncology,0,2280.96
+D0388,Trulance,90492-4232-67,GI,1,209.31
+D0389,Omeprazole,36972-5560-18,GI,0,52.63
+D0390,Bupropion,69972-2867-43,Mental Health,1,202.53
+D0391,Opdivo,51078-7367-88,Oncology,0,1785.09
+D0392,Atorvastatin,70012-3826-96,Cardiovascular,0,27.36
+D0393,Xeljanz,98094-3194-50,Autoimmune,0,617.86
+D0394,Humira,28528-9369-59,Autoimmune,1,2800.32
+D0395,Seroquel,34347-8973-91,Mental Health,0,42.15
+D0396,Seroquel,47858-3298-33,Mental Health,1,97.12
+D0397,Opdivo,57059-1157-72,Oncology,1,2501.88
+D0398,Mesalamine,74876-7703-97,GI,0,45.57
+D0399,Keytruda,84107-1505-38,Oncology,1,4212.99
+D0400,Enbrel,32047-8492-82,Autoimmune,0,1242.52
+D0401,Opdivo,85066-2871-44,Oncology,0,2550.23
+D0402,Spiriva,15453-8231-79,Respiratory,0,29.67
+D0403,Omeprazole,95678-5055-48,GI,0,77.17
+D0404,Ozempic,21401-8193-25,Diabetes,1,466.5
+D0405,Naproxen,87060-6744-88,Pain Management,0,32.37
+D0406,Seroquel,37082-4390-17,Mental Health,1,172.74
+D0407,Xeljanz,52421-5794-47,Autoimmune,0,1072.74
+D0408,Amlodipine,63948-1971-45,Cardiovascular,0,32.91
+D0409,Fluoxetine,52217-5055-96,Mental Health,1,120.24
+D0410,Seroquel,92288-7786-58,Mental Health,0,36.09
+D0411,Metoprolol,46467-7046-68,Cardiovascular,0,35.78
+D0412,Spiriva,22208-8511-91,Respiratory,1,269.02
+D0413,Albuterol,62129-4568-64,Respiratory,0,84.24
+D0414,Ibrance,47171-6533-80,Oncology,1,7357.27
+D0415,Ibrance,16345-1752-22,Oncology,0,2252.36
+D0416,Imbruvica,30707-8230-68,Oncology,1,1007.44
+D0417,Pantoprazole,27290-5945-30,GI,0,77.14
+D0418,Humira,42819-2350-57,Autoimmune,0,1164.51
+D0419,Sertraline,50043-4836-64,Mental Health,0,50.54
+D0420,Lisinopril,20215-3174-85,Cardiovascular,1,36.25
+D0421,Imbruvica,55032-2975-64,Oncology,1,8634.34
+D0422,Imbruvica,21708-2678-23,Oncology,1,4446.87
+D0423,Enbrel,27451-3340-18,Autoimmune,0,1030.51
+D0424,Trulicity,67684-6753-37,Diabetes,0,96.07
+D0425,Abilify,67984-4559-21,Mental Health,0,67.66
+D0426,Sertraline,60335-6759-64,Mental Health,0,26.33
+D0427,Fluoxetine,21042-5065-80,Mental Health,1,181.9
+D0428,Humira,96298-5942-36,Autoimmune,0,1017.75
+D0429,Tramadol,17152-4921-73,Pain Management,1,78.41
+D0430,Tramadol,19307-9655-11,Pain Management,0,49.37
+D0431,Advair,84498-7895-56,Respiratory,0,59.17
+D0432,Abilify,19567-1273-85,Mental Health,0,8.79
+D0433,Enbrel,17925-7520-74,Autoimmune,1,2075.68
+D0434,Trulance,20803-9791-78,GI,0,55.82
+D0435,Humira,77017-4329-29,Autoimmune,1,3450.15
+D0436,Mesalamine,95175-2083-49,GI,0,62.64
+D0437,Ibuprofen,66948-2900-68,Pain Management,1,123.23
+D0438,Januvia,96252-3877-25,Diabetes,0,6.84
+D0439,Sertraline,55443-9568-76,Mental Health,1,235.76
+D0440,Enbrel,45227-2934-13,Autoimmune,0,835.01
+D0441,Linzess,44465-2262-73,GI,0,42.55
+D0442,Albuterol,84302-3734-57,Respiratory,0,24.16
+D0443,Eliquis,25117-4742-75,Cardiovascular,0,3.09
+D0444,Glipizide,57707-7274-29,Diabetes,1,111.48
+D0445,Trulicity,95944-7870-38,Diabetes,0,51.66
+D0446,Linzess,20208-7108-25,GI,1,178.2
+D0447,Glipizide,77603-1752-61,Diabetes,1,46.01
+D0448,Ibrance,50723-6362-21,Oncology,0,2106.18
+D0449,Januvia,83899-5979-89,Diabetes,1,149.34
+D0450,Spiriva,35614-9954-41,Respiratory,0,23.55
+D0451,Omeprazole,55406-1157-52,GI,1,5.5
+D0452,Linzess,79443-4902-63,GI,1,174.75
+D0453,Glipizide,22193-1719-39,Diabetes,0,135.11
+D0454,Linzess,21128-2565-74,GI,0,16.01
+D0455,Omeprazole,18163-8126-94,GI,0,84.55
+D0456,Celebrex,51288-7438-99,Pain Management,1,166.72
+D0457,Symbicort,40619-2223-35,Respiratory,0,22.25
+D0458,Amlodipine,68925-8635-50,Cardiovascular,1,62.76
+D0459,Advair,70731-5341-25,Respiratory,0,18.14
+D0460,Xeljanz,52964-3430-21,Autoimmune,1,4411.37
+D0461,Montelukast,98759-5896-43,Respiratory,0,83.81
+D0462,Sertraline,69270-5093-22,Mental Health,0,36.81
+D0463,Sertraline,39135-3141-35,Mental Health,1,247.81
+D0464,Albuterol,43924-2228-12,Respiratory,0,99.74
+D0465,Tramadol,22055-6432-25,Pain Management,0,4.05
+D0466,Imbruvica,85220-8096-60,Oncology,1,6457.39
+D0467,Trulance,38143-4066-45,GI,1,101.55
+D0468,Sertraline,90868-5026-92,Mental Health,0,24.95
+D0469,Mesalamine,21497-5583-59,GI,0,16.32
+D0470,Oxycodone,81258-1319-58,Pain Management,1,156.82
+D0471,Montelukast,73527-6636-82,Respiratory,0,55.22
+D0472,Linzess,51795-4588-13,GI,1,314.04
+D0473,Humira,71824-9674-55,Autoimmune,0,1266.84
+D0474,Naproxen,96096-4951-44,Pain Management,1,107.67
+D0475,Glipizide,60911-6813-32,Diabetes,0,30.53
+D0476,Symbicort,13697-6761-82,Respiratory,0,60.72
+D0477,Tramadol,33010-9035-14,Pain Management,0,6.33
+D0478,Oxycodone,79002-8831-10,Pain Management,1,67.68
+D0479,Naproxen,33260-6301-17,Pain Management,1,6.34
+D0480,Sertraline,57826-2188-57,Mental Health,0,54.02
+D0481,Mesalamine,49552-6285-27,GI,1,341.67
+D0482,Trulance,32833-6846-38,GI,0,59.91
+D0483,Abilify,48602-3086-32,Mental Health,1,219.73
+D0484,Mesalamine,88956-6213-88,GI,1,81.21
+D0485,Metoprolol,20198-4899-54,Cardiovascular,1,147.41
+D0486,Sertraline,97821-6500-67,Mental Health,0,4.81
+D0487,Naproxen,55938-5205-23,Pain Management,0,36.58
+D0488,Ozempic,65004-3725-62,Diabetes,0,76.5
+D0489,Linzess,23294-8855-83,GI,0,58.7
+D0490,Naproxen,14379-5831-12,Pain Management,0,17.3
+D0491,Lisinopril,59212-3636-19,Cardiovascular,1,83.42
+D0492,Atorvastatin,90431-8909-13,Cardiovascular,0,17.88
+D0493,Seroquel,30591-1877-22,Mental Health,0,27.51
+D0494,Tramadol,80795-5346-94,Pain Management,0,15.51
+D0495,Ibuprofen,84943-9043-29,Pain Management,1,12.79
+D0496,Ozempic,96772-8869-35,Diabetes,1,62.71
+D0497,Naproxen,20739-8758-24,Pain Management,0,16.8
+D0498,Trulance,96643-5341-21,GI,0,57.95
+D0499,Pantoprazole,59996-7052-33,GI,0,41.78
+D0500,Cosentyx,39654-5400-82,Autoimmune,0,561.64
